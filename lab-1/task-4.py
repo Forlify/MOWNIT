@@ -17,7 +17,7 @@ def bifurcation_diagram(x_0, skip, iterations, minimal_r=0, maximal_r=4):
     r_range = np.linspace(minimal_r, maximal_r, int(1 / 0.0001))
 
     for r in r_range:
-        x = x_0;
+        x = x_0
         for i in range(iterations + skip):
             if i >= skip:
                 R.append(r)
@@ -107,6 +107,6 @@ def plot_all_iterations():
     plt.show()
 
 
-plot_all_iterations()
+# plot_all_iterations()
 
 print('################################################### END')
