@@ -80,9 +80,7 @@ def chebyshev_approximation(n, count=500):
     return results
 
 
-# plt.plot(chebyshev_approximation(5))
-# plt.plot(chebyshev_approximation(10))
-plt.plot(np.linspace(-5, 5, 500), chebyshev_approximation(20))
+plt.plot(np.linspace(-5, 5, 500), chebyshev_approximation(15))
 plt.plot(np.linspace(-5, 5, 500), real_function)
 
 plt.show()
