@@ -4,8 +4,8 @@ import time
 
 ################################# 1
 
-# number = float32(0.5312500)
-number = float32(0.7775563)
+number = float32(0.5312500)
+# number = float32(0.7775563)
 numbers = [number] * 10 ** 7
 
 start_time = time.time()
