@@ -8,3 +8,10 @@ Repository for Computation Methods for Science and Technology laboratories at AG
 4. Wyszukiarka dokumentów
 5. Równania nieliniowe
 6. Rozwiązywanie układów równań liniowych, metoda Gaussa-Jordana
+7. Dekompozycja spektralna
+8. Page Rank
+9. Faktoryzacja QR
+10. Transformacje Fouriera
+11. Generatory liczb losowych
+12.
+13.
