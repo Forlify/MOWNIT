@@ -13,5 +13,5 @@ Repository for Computation Methods for Science and Technology laboratories at AG
 9. Faktoryzacja QR
 10. Transformacje Fouriera
 11. Generatory liczb losowych
-12.
-13.
+12. Równania różniczkowe i zagadnienie początkowe
+13. Minimalizacja funkcji (symulowane wyżarzanie)
